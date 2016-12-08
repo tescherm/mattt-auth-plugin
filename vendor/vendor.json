@@ -1,0 +1,169 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "U5oQB4BxlKUY/NY5iR6VLlTGJCY=",
+			"path": "github.com/Microsoft/go-winio",
+			"revision": "24a3e3d3fc7451805e09d11e11e95d9a0a4f205e",
+			"revisionTime": "2016-11-21T22:01:10Z"
+		},
+		{
+			"checksumSHA1": "xxdCar4VZ0iINRB+uLi1K2CvaHU=",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "881bee4e20a5d11a6a88a5667c6f292072ac1963",
+			"revisionTime": "2016-12-02T02:35:07Z"
+		},
+		{
+			"checksumSHA1": "jZW0YmSE2j+316qebIB/FcrVZ6s=",
+			"path": "github.com/coreos/go-systemd/activation",
+			"revision": "efa0506b99d3d9cfade280f5c7a1c1980d8c6c48",
+			"revisionTime": "2016-11-23T11:34:42Z"
+		},
+		{
+			"checksumSHA1": "LSC93+hh9y73VC9UbbqMGf1WHRQ=",
+			"path": "github.com/coreos/go-systemd/util",
+			"revision": "efa0506b99d3d9cfade280f5c7a1c1980d8c6c48",
+			"revisionTime": "2016-11-23T11:34:42Z"
+		},
+		{
+			"checksumSHA1": "PqfZ1nPth0u742gRe4ochQ16umQ=",
+			"path": "github.com/coreos/pkg/dlopen",
+			"revision": "447b7ec906e523386d9c53be15b55a8ae86ea944",
+			"revisionTime": "2016-10-26T22:29:26Z"
+		},
+		{
+			"checksumSHA1": "WRu+mhZ2PfQu27qRr69HVGjtN4Q=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "346938d642f2ec3594ed81d874461961cd0faa76",
+			"revisionTime": "2016-10-29T20:57:26Z"
+		},
+		{
+			"checksumSHA1": "a2yC46a1qsJomgY6rb+FkTFiqmE=",
+			"path": "github.com/davecgh/go-spew/spew/testdata",
+			"revision": "346938d642f2ec3594ed81d874461961cd0faa76",
+			"revisionTime": "2016-10-29T20:57:26Z"
+		},
+		{
+			"checksumSHA1": "EVXZ5Nue20oV78WHYQRVGYGmTm4=",
+			"path": "github.com/docker/docker/pkg/authorization",
+			"revision": "e8a2c7196a2715c318bbfb2b57076fa1922a245f",
+			"revisionTime": "2016-12-06T07:12:34Z"
+		},
+		{
+			"checksumSHA1": "utYEXfrT5hWwXLpH301ZXDk2Uw0=",
+			"path": "github.com/docker/docker/pkg/ioutils",
+			"revision": "e8a2c7196a2715c318bbfb2b57076fa1922a245f",
+			"revisionTime": "2016-12-06T07:12:34Z"
+		},
+		{
+			"checksumSHA1": "jHb9o47h5I/oIIyT74N1KGQHdgE=",
+			"path": "github.com/docker/docker/pkg/longpath",
+			"revision": "e8a2c7196a2715c318bbfb2b57076fa1922a245f",
+			"revisionTime": "2016-12-06T07:12:34Z"
+		},
+		{
+			"checksumSHA1": "HhOx/0szNaMu8AkiA7fzhL0DJ0k=",
+			"path": "github.com/docker/docker/pkg/plugingetter",
+			"revision": "e8a2c7196a2715c318bbfb2b57076fa1922a245f",
+			"revisionTime": "2016-12-06T07:12:34Z"
+		},
+		{
+			"checksumSHA1": "NbH8DWmLNJYjgN2isQNF3TI2s4M=",
+			"path": "github.com/docker/docker/pkg/plugins",
+			"revision": "e8a2c7196a2715c318bbfb2b57076fa1922a245f",
+			"revisionTime": "2016-12-06T07:12:34Z"
+		},
+		{
+			"checksumSHA1": "7PpleyPctFC+y0OS4+kksrD6sJE=",
+			"path": "github.com/docker/docker/pkg/plugins/transport",
+			"revision": "e8a2c7196a2715c318bbfb2b57076fa1922a245f",
+			"revisionTime": "2016-12-06T07:12:34Z"
+		},
+		{
+			"checksumSHA1": "b8HCQikmFW5PW0Di8Id+FrSBGxI=",
+			"path": "github.com/docker/go-connections/sockets",
+			"revision": "4ccf312bf1d35e5dbda654e57a9be4c3f3cd0366",
+			"revisionTime": "2016-11-15T16:18:49Z"
+		},
+		{
+			"checksumSHA1": "0dJnk9Ca1r/E9i05qSRV4Pbyp00=",
+			"path": "github.com/docker/go-connections/tlsconfig",
+			"revision": "4ccf312bf1d35e5dbda654e57a9be4c3f3cd0366",
+			"revisionTime": "2016-11-15T16:18:49Z"
+		},
+		{
+			"checksumSHA1": "ISXBqRoZ3hdduvMytsZjfZi5YSY=",
+			"path": "github.com/docker/go-plugins-helpers/authorization",
+			"revision": "77bfeec724ac5ae33f6a820c7ee6c98301b5a121",
+			"revisionTime": "2016-11-23T20:57:46Z"
+		},
+		{
+			"checksumSHA1": "1Rzn8gEUPiBaw52txGL83BMGIGA=",
+			"path": "github.com/docker/go-plugins-helpers/sdk",
+			"revision": "77bfeec724ac5ae33f6a820c7ee6c98301b5a121",
+			"revisionTime": "2016-11-23T20:57:46Z"
+		},
+		{
+			"checksumSHA1": "Thg9sicXr23/02y0VqmmJoEZIzI=",
+			"path": "github.com/gorilla/context",
+			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+			"revisionTime": "2016-08-17T18:46:32Z"
+		},
+		{
+			"checksumSHA1": "YmVklGa5tGoWUk2WzVsMkm7/i+U=",
+			"path": "github.com/gorilla/mux",
+			"revision": "757bef944d0f21880861c2dd9c871ca543023cba",
+			"revisionTime": "2016-09-20T23:08:13Z"
+		},
+		{
+			"checksumSHA1": "pg7vGzoKBUqI7ykGdhfOWOm9+sM=",
+			"path": "github.com/opencontainers/runc/libcontainer/user",
+			"revision": "5974b4c7a1a4d4579c0c25cbb01b0070d1285bbc",
+			"revisionTime": "2016-12-06T06:18:16Z"
+		},
+		{
+			"checksumSHA1": "z9BEuVEIIqVIKT3wtLttebEjT5o=",
+			"path": "github.com/opencontainers/runc/libcontainer/utils",
+			"revision": "5974b4c7a1a4d4579c0c25cbb01b0070d1285bbc",
+			"revisionTime": "2016-12-06T06:18:16Z"
+		},
+		{
+			"checksumSHA1": "RZOdTSZN/PgcTqko5LzIAzw+UT4=",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "792786c7400a136282c1664665ae0a8db921c6c2",
+			"revisionTime": "2016-01-10T10:55:54Z"
+		},
+		{
+			"checksumSHA1": "FQxphxs1ORrfgfaeVz34UvgV+/8=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "18a02ba4a312f95da08ff4cfc0055750ce50ae9e",
+			"revisionTime": "2016-11-17T07:43:51Z"
+		},
+		{
+			"checksumSHA1": "88lxkrVVZyBqOBOFnNMBwEexiLY=",
+			"path": "golang.org/x/net/context",
+			"revision": "4a1c855a052c2bad0e019ccfe8193a33d77adf5e",
+			"revisionTime": "2016-12-06T00:22:42Z"
+		},
+		{
+			"checksumSHA1": "KfGbNTddygOy3Ai1rBG4it6A3JM=",
+			"path": "golang.org/x/net/proxy",
+			"revision": "4a1c855a052c2bad0e019ccfe8193a33d77adf5e",
+			"revisionTime": "2016-12-06T00:22:42Z"
+		},
+		{
+			"checksumSHA1": "oCUhDz8Xf2yS+bNjZ/n+Vu5zm3E=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "478fcf54317e52ab69f40bb4c7a1520288d7f7ea",
+			"revisionTime": "2016-12-05T15:46:50Z"
+		},
+		{
+			"checksumSHA1": "CL8M2HryfmL2eB/lNUQtBgKUxbE=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "478fcf54317e52ab69f40bb4c7a1520288d7f7ea",
+			"revisionTime": "2016-12-05T15:46:50Z"
+		}
+	],
+	"rootPath": "github.com/tescherm/mattt-auth-plugin"
+}

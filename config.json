@@ -1,0 +1,25 @@
+{
+	"description": "matt auth test",
+	"documentation": "https://docs.docker.com/engine/extend/plugins/",
+	"entrypoint": [
+		"/mattt-auth-plugin"
+	],
+	"network": {
+		"type": "host"
+	},
+	"interface": {
+		"types": [
+			"docker.authz/1.0"
+		],
+		"socket": "mattt.sock"
+	},
+	"env": [
+		{
+			"name": "DEBUG",
+			"settable": [
+				"value"
+			],
+			"value": "0"
+		}
+	]
+}
