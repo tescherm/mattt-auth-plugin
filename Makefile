@@ -1,10 +1,5 @@
-PLUGIN_NAME=mattt-auth-plugin
-PLUGIN_REGISTRY_URL=index-stage.docker.io
-PLUGIN_NAMESPACE=tescherm
+PLUGIN_NAME=index-stage.docker.io/tescherm/mattt-auth-plugin
 PLUGIN_TAG=latest
-
-STORE_REGISTRY_URL=registry-1-stage.docker.io
-STORE_NAMESPACE=dockerstoretemp
 
 all: clean docker rootfs create
 
@@ -47,5 +42,3 @@ enable:
 push:  clean docker rootfs create enable
 	@echo "### push plugin ${PLUGIN_NAME}:${PLUGIN_TAG}"
 	@docker plugin push ${PLUGIN_NAME}:${PLUGIN_TAG}
-	
-		
